@@ -9,7 +9,7 @@ Only czech language is supported in the application at the moment.
 If you want to run it as python script just use \_env\env_python.txt as requirements for your venv
 
 ```bash
-    pip install -r .\_env\env_python.txt
+pip install -r .\_env\env_python.txt
 ```
 
 or install manually prerequisites. Or just use exe file for windows.
